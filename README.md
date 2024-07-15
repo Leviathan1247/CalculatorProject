@@ -1,1 +1,3 @@
 # CalculatorProject
+
+Training, exercise project
